@@ -4,7 +4,7 @@
 # Palindrome Number.py:
 #Check if an integer x reads the same forwards and backwards. Return true if it does, otherwise false. Negative numbers and numbers that change when reversed are not palindromes.
 
-#Search Insert Position.py
+#Search Insert Position.py:
 #The code defines a method searchInsert that uses binary search to find the index of a target in a sorted list nums. If the target exists, it returns its index. If not, it returns the index where the target should be inserted to maintain order.
 #Uses left, right, and mid pointers to search efficiently.
 #If not found, left gives the correct insertion position.
