@@ -15,5 +15,5 @@
 # Remove Element.py:
 #Remove all occurrences of a given value val from the array nums in-place. Rearrange the array so the first k elements are the ones not equal to val, and return k. The order of elements can change, and anything beyond the first k elements doesn't matter.
 
-# Remove Duplicates from Sorted Array
+# Remove Duplicates from Sorted Array:
 #Remove duplicates in a sorted integer array in-place so that each unique element appears only once. Return the number of unique elements, with the first part of the array holding these unique values in order.
