@@ -30,5 +30,8 @@ class Solution:
 # Remove Duplicates From Sortey Array.py:
 #Remove duplicates in a sorted integer array in-place so that each unique element appears only once. Return the number of unique elements, with the first part of the array holding these unique values in order.
 
-# Longest_ Common_ Prefix.py:
+# Longest Common Prefix.py:
 #The code finds the longest common prefix by comparing characters of all strings one by one and trimming the prefix whenever a mismatch is found. It stops early if the prefix becomes empty.
+
+#  Length Of Last Word.py:
+#The code trims extra spaces and splits the string into words.It then returns the length of the last word in the resulting list.
