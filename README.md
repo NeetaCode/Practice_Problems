@@ -35,3 +35,6 @@ class Solution:
 
 #  Length Of Last Word.py:
 #The code trims extra spaces and splits the string into words.It then returns the length of the last word in the resulting list.
+
+# Find Index of First Occurrence in String.py:
+#Given two strings, find the first position where the second string (needle) appears in the first string (haystack). Return that index, or -1 if it doesn’t appear.
