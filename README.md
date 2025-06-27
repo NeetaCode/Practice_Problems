@@ -2,7 +2,6 @@
 #Given an array of integers and a target value, the task is to find the indices of two numbers in the array that add up to the target. Each input is guaranteed to have exactly one solution, and the same element cannot be used twice. The output should be the pair of indices, returned in any order.
 
 Simpler Code:
-
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
@@ -15,7 +14,7 @@ class Solution:
 
 
 # Palindrome Number.py:
-#Check if an integer x reads the same forwards and backwards. Return true if it does, otherwise false. Negative numbers and numbers that change when reversed are not palindromes.
+#Check if an integer 'x' reads the same forwards and backwards. Return true if it does, otherwise false. Negative numbers and numbers that change when reversed are not palindromes.
 
 # Search Insert Position.py:
 #The code defines a method searchInsert that uses binary search to find the index of a target in a sorted list nums. If the target exists, it returns its index. If not, it returns the index where the target should be inserted to maintain the order.
