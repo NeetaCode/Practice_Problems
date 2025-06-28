@@ -38,3 +38,6 @@ class Solution:
 
 # Find Index of First Occurrence in String.py:
 #Given two strings, find the first position where the second string (needle) appears in the first string (haystack). Return that index, or -1 if it doesn’t appear.
+
+# Contains Duplicate.py
+#This code checks if a list contains any duplicate values. It uses a set to track seen numbers and returns True if a duplicate is found; otherwise, it returns False.
