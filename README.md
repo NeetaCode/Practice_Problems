@@ -1,3 +1,6 @@
+“Arrays & Hash Maps” pattern problems
+
+__________________________________________________________________________________
 # Two Sum.py:
 #Given an array of integers and a target value, the task is to find the indices of two numbers in the array that add up to the target. Each input is guaranteed to have exactly one solution, and the same element cannot be used twice. The output should be the pair of indices, returned in any order.
 
@@ -10,7 +13,10 @@ class Solution:
                     sum = nums[i] + nums[j]
                     if sum == target:
                         return [i, j]
-                        
+# Contains Duplicate.py
+#This code checks if a list contains any duplicate values. It uses a set to track seen numbers and returns True if a duplicate is found; otherwise, it returns False.
+
+__________________________________________________________________________________
 
 
 # Palindrome Number.py:
@@ -39,5 +45,4 @@ class Solution:
 # Find Index of First Occurrence in String.py:
 #Given two strings, find the first position where the second string (needle) appears in the first string (haystack). Return that index, or -1 if it doesn’t appear.
 
-# Contains Duplicate.py
-#This code checks if a list contains any duplicate values. It uses a set to track seen numbers and returns True if a duplicate is found; otherwise, it returns False.
+
