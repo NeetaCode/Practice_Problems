@@ -16,6 +16,24 @@ class Solution:
 # Contains Duplicate.py
 #This code checks if a list contains any duplicate values. It uses a set to track seen numbers and returns True if a duplicate is found; otherwise, it returns False.
 
+Two Sum (LC#1)--> Done
+Find indices of two numbers that add up to a target using a single-pass hash map in O(n) time
+
+Contains Duplicate (LC#217)--> Done
+Detect whether any value appears twice by storing seen elements in a hash set
+
+# Valid Anagram (LC#242)
+Check if two strings are anagrams by comparing hash maps or character counts 
+
+# Product of Array Except Self (LC#238)
+Compute products excluding each index without using division (prefix/product patterns) 
+
+# Top K Frequent Elements (LC#347)
+Use a hash map to count frequencies, then extract the top‑k elements efficiently 
+
+# Group Anagrams (LC#49)
+Group strings by sorted key or character-count key using a hash map
+
 __________________________________________________________________________________
 
 
