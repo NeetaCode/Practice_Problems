@@ -16,10 +16,10 @@ class Solution:
 # Contains Duplicate.py
 #This code checks if a list contains any duplicate values. It uses a set to track seen numbers and returns True if a duplicate is found; otherwise, it returns False.
 
-Two Sum (LC#1)--> Done
+# Two Sum (LC#1)--> Done
 Find indices of two numbers that add up to a target using a single-pass hash map in O(n) time
 
-Contains Duplicate (LC#217)--> Done
+# Contains Duplicate (LC#217)--> Done
 Detect whether any value appears twice by storing seen elements in a hash set
 
 # Valid Anagram (LC#242)
