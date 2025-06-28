@@ -22,7 +22,7 @@ Find indices of two numbers that add up to a target using a single-pass hash map
 # Contains Duplicate (LC#217)--> Done
 Detect whether any value appears twice by storing seen elements in a hash set
 
-# Valid Anagram (LC#242)
+# Valid Anagram (LC#242)--> Done
 Check if two strings are anagrams by comparing hash maps or character counts 
 
 # Product of Array Except Self (LC#238)
