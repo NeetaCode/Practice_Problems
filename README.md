@@ -34,6 +34,14 @@ Use a hash map to count frequencies, then extract the top‑k elements efficient
 # Group Anagrams (LC#49)
 Group strings by sorted key or character-count key using a hash map
 
+# Longest Consecutive Sequence (LC#128) – Find max consecutive run using a hash set 
+
+# Encode and Decode Strings (LC#659) – Apply hashing strategies to support serialization 
+
+# Maximum Number of Ways to Partition an Array – Uses prefix sums with hash maps 
+
+# Number of Subarrays That Match a Pattern II – Analyze subarrays for specific increase/decrease patterns; mixes arrays and pattern detection 
+
 __________________________________________________________________________________
 
 
