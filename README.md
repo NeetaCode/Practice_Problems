@@ -45,6 +45,30 @@ Group strings by sorted key or character-count key using a hash map
 __________________________________________________________________________________
 
 
+# Recursion
+Climbing Stairs (Easy) - #70
+Generate Parentheses (Medium) - #22
+Permutations (Medium) - #46
+Letter Combinations of a Phone Number (Medium) - #17
+Combination Sum (Medium) - #39
+
+# Trees
+Maximum Depth of Binary Tree (Easy) - #104
+Invert Binary Tree (Easy) - #226
+Validate Binary Search Tree (Medium) - #98
+Lowest Common Ancestor of a Binary Tree (Medium) - #236
+Binary Tree Paths (Easy) - #257
+
+# Sliding Window
+Minimum Size Subarray Sum (Medium) - #209
+Longest Substring Without Repeating Characters (Medium) - #3
+Permutation in String (Medium) - #567
+Longest Repeating Character Replacement (Medium) - #424
+Find All Anagrams in a String (Medium) - #438
+
+__________________________________________________________________________________
+
+
 # Palindrome Number.py:
 #Check if an integer 'x' reads the same forwards and backwards. Return true if it does, otherwise false. Negative numbers and numbers that change when reversed are not palindromes.
 
