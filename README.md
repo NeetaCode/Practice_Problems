@@ -45,26 +45,26 @@ Group strings by sorted key or character-count key using a hash map
 __________________________________________________________________________________
 
 
-# Recursion
-#Climbing Stairs (Easy) - #70
-#Generate Parentheses (Medium) - #22
-#Permutations (Medium) - #46
-#Letter Combinations of a Phone Number (Medium) - #17
-#Combination Sum (Medium) - #39
+# Recursion:
+# Climbing Stairs (Easy) - #70
+# Generate Parentheses (Medium) - #22
+# Permutations (Medium) - #46
+# Letter Combinations of a Phone Number (Medium) - #17
+# Combination Sum (Medium) - #39
 
-# Trees
-#Maximum Depth of Binary Tree (Easy) - #104
-#Invert Binary Tree (Easy) - #226
-#Validate Binary Search Tree (Medium) - #98
-#Lowest Common Ancestor of a Binary Tree (Medium) - #236
-#Binary Tree Paths (Easy) - #257
+# Trees:
+# Maximum Depth of Binary Tree (Easy) - #104
+# Invert Binary Tree (Easy) - #226
+# Validate Binary Search Tree (Medium) - #98
+# Lowest Common Ancestor of a Binary Tree (Medium) - #236
+# Binary Tree Paths (Easy) - #257
 
-# Sliding Window
-#Minimum Size Subarray Sum (Medium) - #209
-#Longest Substring Without Repeating Characters (Medium) - #3
-#Permutation in String (Medium) - #567
-#Longest Repeating Character Replacement (Medium) - #424
-#Find All Anagrams in a String (Medium) - #438
+# Sliding Window:
+# Minimum Size Subarray Sum (Medium) - #209
+# Longest Substring Without Repeating Characters (Medium) - #3
+# Permutation in String (Medium) - #567
+# Longest Repeating Character Replacement (Medium) - #424
+# Find All Anagrams in a String (Medium) - #438
 
 __________________________________________________________________________________
 
