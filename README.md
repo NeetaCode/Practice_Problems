@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 # Recursion:
 # Climbing Stairs (Easy) - #70 --> Done
-# Generate Parentheses (Medium) - #22
+# Generate Parentheses (Medium) - #22 --> Done
 # Permutations (Medium) - #46
 # Letter Combinations of a Phone Number (Medium) - #17
 # Combination Sum (Medium) - #39
