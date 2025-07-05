@@ -60,7 +60,7 @@ ________________________________________________________________________________
 # Binary Tree Paths (Easy) - #257
 
 # Sliding Window:
-# Minimum Size Subarray Sum (Medium) - #209
+# Minimum Size Subarray Sum (Medium) - #209 --> Done
 # Longest Substring Without Repeating Characters (Medium) - #3
 # Permutation in String (Medium) - #567
 # Longest Repeating Character Replacement (Medium) - #424
