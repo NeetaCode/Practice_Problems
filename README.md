@@ -53,7 +53,7 @@ ________________________________________________________________________________
 # Combination Sum (Medium) - #39
 
 # Trees:
-# Maximum Depth of Binary Tree (Easy) - #104
+# Maximum Depth of Binary Tree (Easy) - #104 --> Done
 # Invert Binary Tree (Easy) - #226
 # Validate Binary Search Tree (Medium) - #98
 # Lowest Common Ancestor of a Binary Tree (Medium) - #236
