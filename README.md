@@ -66,7 +66,19 @@ ________________________________________________________________________________
 # Longest Repeating Character Replacement (Medium) - #424
 # Find All Anagrams in a String (Medium) - #438
 
-__________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Top 8 Dynamic Programming Problems (LeetCode)
+1. Climbing Stairs (70) — Intro to DP (Fibonacci-style)
+2. House Robber (198) — Classic choice-based DP
+3. Longest Common Subsequence (1143) — Core of many string DP problems
+4. Partition Equal Subset Sum (416) — 0/1 Knapsack base
+5. Target Sum (494) — Subset sum transformation
+6. House Robber II (213) — Circular array variant
+7. Edit Distance (72) — Fundamental string DP
+8. Longest Increasing Subsequence (300) — Important in interview rounds
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 # Palindrome Number.py:
