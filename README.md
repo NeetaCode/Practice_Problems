@@ -2,7 +2,7 @@ ________________________________________________________________________________
 **DSA_Roadmap**
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**Week 1: Arrays, Hash Maps & Patterns
+**Week 1: Arrays, Hash Maps & Patterns  
 Goal: Build strong foundation**
 
 **Arrays & Hash Maps**
@@ -28,7 +28,7 @@ Goal: Build strong foundation**
 - Find Index of First Occurrence in String → Done
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**Week 2: Recursion + Trees + Sliding Window
+**Week 2: Recursion + Trees + Sliding Window  
 Goal: Strengthen mid-level concepts**
 
 **Recursion**
@@ -53,7 +53,7 @@ Goal: Strengthen mid-level concepts**
 - Find All Anagrams in a String (LC#438)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**Week 3: Dynamic Programming (DP)
+**Week 3: Dynamic Programming (DP)  
 Goal: Learn common problem-solving patterns**
 
 **Top 8 DP Problems**
@@ -68,10 +68,10 @@ Goal: Learn common problem-solving patterns**
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-**Week 4: Mock Interviews + Pattern Review**
+**Week 4: Mock Interviews + Pattern Review**  
 Goal: Simulate interview settings & reinforce patterns**
-Mix of problems from Weeks 1–3 under time pressure
-Focus on review, speed, and accuracy
+- Mix of problems from Weeks 1–3 under time pressure
+- Focus on review, speed, and accuracy
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Miscellaneous**
