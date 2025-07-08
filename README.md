@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Goal: Build strong foundation**
 
 **Arrays & Hash Maps**
-Two Sum (LC#1) → Done 
+Two Sum (LC#1) → Done  
 Contains Duplicate (LC#217) → Done
 Valid Anagram (LC#242)
 Product of Array Except Self (LC#238)
