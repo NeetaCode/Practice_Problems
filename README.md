@@ -77,6 +77,7 @@ ________________________________________________________________________________
 # Simpler Codefor Two Sum.py:
 
 Simpler Code:
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
@@ -85,3 +86,4 @@ class Solution:
                     sum = nums[i] + nums[j]
                     if sum == target:
                         return [i, j]
+
