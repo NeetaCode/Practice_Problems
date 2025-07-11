@@ -70,8 +70,8 @@ ________________________________________________________________________________
 
 # Week 4: Mock Interviews + Pattern Review  
 # Goal: Simulate interview settings & reinforce patterns
-- Mix of problems from Weeks 1–3 under time pressure.
-- Focus on review, speed, and accuracy.
+- Mix of problems from Weeks 1–3 under time pressure
+- Focus on review, speed, and accuracy
 ___________________________________________________________________________________________________________________________________________________________________
 # Miscellaneous
 # Simpler Codefor Two Sum.py:
