@@ -8,7 +8,7 @@ ________________________________________________________________________________
 **Arrays & Hash Maps**
 - Two Sum (LC#1) → Done
 - Contains Duplicate (LC#217) → Done
-- Valid Anagram (LC#242)
+- Valid Anagram (LC#242) --> Done
 - Product of Array Except Self (LC#238)
 - Top K Frequent Elements (LC#347)
 - Group Anagrams (LC#49)
