@@ -7,9 +7,19 @@ class Solution:
         count_t = {}
 
         for char in s:
-            count_s[char] = count_s.get(char, 0) + 1
+            #dictionary[key] = value
+            count_s[char] = count_s.get(char,0)+1
+            # .get(char,0)+1
+            # .get(char --> means get current count
+            # ,0 --> return 0 if there is no current count return 0
+            # )+1 --> increment the current count by 1, if the char is found.
         
-        for char in t:
-            count_t[char] = count_t.get(char, 0) + 1
+        print(count_s)
 
-        return count_s == count_t
+        for char in t:
+             #dictionary[key] = value
+            count_t[char] = count_t.get(char,0)+1
+
+        print(count_t)
+
+        return count_s==count_t
