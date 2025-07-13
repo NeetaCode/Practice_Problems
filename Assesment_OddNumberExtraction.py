@@ -1,38 +1,26 @@
-public class GreatestOddNumberFinder {
+class maxOddString():
+    def maxOdd(self, num):
+        max_Odd=-1
+        value = ""
 
-    public static void main(String[] args) {
-        String input = "mkf43kd1cmk32k1mv123";
-        System.out.println("Input: " + input);
-        int result = findGreatestOddNumber(input);
-        System.out.println("Greatest odd number: " + result);
-    }
+        for c in num:
+            if c.isdigit():
+                value += c
 
-    public static int findGreatestOddNumber(String input) {
-        int maxOdd = -1;
-        StringBuilder number = new StringBuilder();
+            else:
+                if value!="":
+                    number = int(value)
+                    if number%2 == 1 and number > max_Odd:
+                        max_Odd = number
+                    value = ""
 
-        for (char c : input.toCharArray()) {
-            if (Character.isDigit(c)) {
-                number.append(c);
-            } else {
-                if (number.length() > 0) {
-                    int value = Integer.parseInt(number.toString());
-                    if (value % 2 == 1 && value > maxOdd) {
-                        maxOdd = value;
-                    }
-                    number.setLength(0); // clear for next number
-                }
-            }
-        }
+        if value != "":
+            number = int(value)
+            if number%2 == 1 and number>max_Odd:
+                max_Odd = number
 
-        // Check if the string ends with a number
-        if (number.length() > 0) {
-            int value = Integer.parseInt(number.toString());
-            if (value % 2 == 1 && value > maxOdd) {
-                maxOdd = value;
-            }
-        }
+        return str(max_Odd) if max_Odd != -1 else ""
 
-        return maxOdd;
-    }
-}
+sol = maxOddString()
+print(sol.maxOdd("mkf43kd1cmk32k1mv123"))  # Output: "123"
+print(sol.maxOdd("abcd"))  # Output: ""
