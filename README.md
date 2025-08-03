@@ -89,73 +89,75 @@ class Solution:
 
 
 ```
-LeetCode Prep
-Organized by topic and difficulty. Focused on questions frequently asked in interviews for SWE roles.
+_____________________________________________________________________________________________________________________________________  
+LeetCode Prep  
+_____________________________________________________________________________________________________________________________________  
+Organized by topic and difficulty. Focused on questions frequently asked in interviews for SWE roles.  
 
 
-🌳 Graph / Trees
-Easy
+🌳 Graph / Trees  
+Easy  
 [94] Binary Tree Inorder Traversal  
 [144] Binary Tree Preorder Traversal  
 [145] Binary Tree Postorder Traversal  
 [261] Graph Valid Tree (medium to easy)  
 
-Medium
+Medium  
 [127] Word Ladder.
 [236] Lowest Common Ancestor of Binary Tree  
 [323] Number of Connected Components in Graph  
 [1650 / 1696] Cycle Detection / Advanced LCA Variants  
 
 
-📊 Dynamic Programming
-Easy
+📊 Dynamic Programming  
+Easy  
 [70] Climbing Stairs (also under recursion)  
 [338] Counting Bits  
 [121] Best Time to Buy and Sell Stock I  
 
-Medium
-[139] Word Break.
+Medium  
+[139] Word Break  
 [309] Best Time to Buy and Sell Stock with Cooldown  
 [329] Longest Increasing Path in a Matrix  
 [63] Unique Paths II  
 
 
-🔤 Arrays & String Processing
-Easy
+🔤 Arrays & String Processing  
+Easy  
 [1] Two Sum  
 [53] Maximum Subarray  
 [49] Group Anagrams  
 
-Medium
+Medium  
 [3] Longest Substring Without Repeating Characters  
 [15] 3Sum  
 [1408] String Matching in an Array  
 
 
-🔁 Recursion / Backtracking
-Easy
+🔁 Recursion / Backtracking  
+Easy  
 [70] Climbing Stairs  
 [206] Reverse Linked List (via recursion)  
 
-Medium
+Medium  
 [22] Generate Parentheses  
 [46] Permutations  
 [78] Subsets  
 
 
-🛠️ System Design (LeetCode-Style)
-These aren’t classic DSA problems but involve modeling and system architecture thinking.
+🛠️ System Design (LeetCode-Style)  
+These aren’t classic DSA problems but involve modeling and system architecture thinking.  
 [535] Encode and Decode TinyURL  
 [1396] Design Underground System  
 
 
-📐 Geometry / Math
-Easy
+📐 Geometry / Math  
+Easy  
 [9] Palindrome Number  
 [12] Integer to Roman  
 [13] Roman to Integer  
 
-Medium
+Medium  
 [241] Different Ways to Add Parentheses (math + recursion + DP)  
 [~1232] Circle Overlap / Max Area Triangle (search by tags)  
 
