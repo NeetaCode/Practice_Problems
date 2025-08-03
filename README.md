@@ -95,67 +95,67 @@ Organized by topic and difficulty. Focused on questions frequently asked in inte
 
 🌳 Graph / Trees
 Easy
-[94] Binary Tree Inorder Traversal.
-[144] Binary Tree Preorder Traversal.
-[145] Binary Tree Postorder Traversal.
-[261] Graph Valid Tree (medium to easy).
+[94] Binary Tree Inorder Traversal  
+[144] Binary Tree Preorder Traversal  
+[145] Binary Tree Postorder Traversal  
+[261] Graph Valid Tree (medium to easy)  
 
 Medium
 [127] Word Ladder.
-[236] Lowest Common Ancestor of Binary Tree.
-[323] Number of Connected Components in Graph.
-[1650 / 1696] Cycle Detection / Advanced LCA Variants.
+[236] Lowest Common Ancestor of Binary Tree  
+[323] Number of Connected Components in Graph  
+[1650 / 1696] Cycle Detection / Advanced LCA Variants  
 
 
 📊 Dynamic Programming
 Easy
-[70] Climbing Stairs (also under recursion).
-[338] Counting Bits.
-[121] Best Time to Buy and Sell Stock I.
+[70] Climbing Stairs (also under recursion)  
+[338] Counting Bits  
+[121] Best Time to Buy and Sell Stock I  
 
 Medium
 [139] Word Break.
-[309] Best Time to Buy and Sell Stock with Cooldown.
-[329] Longest Increasing Path in a Matrix.
-[63] Unique Paths II.
+[309] Best Time to Buy and Sell Stock with Cooldown  
+[329] Longest Increasing Path in a Matrix  
+[63] Unique Paths II  
 
 
 🔤 Arrays & String Processing
 Easy
-[1] Two Sum.
-[53] Maximum Subarray.
-[49] Group Anagrams.
+[1] Two Sum  
+[53] Maximum Subarray  
+[49] Group Anagrams  
 
 Medium
-[3] Longest Substring Without Repeating Characters.
-[15] 3Sum.
-[1408] String Matching in an Array.
+[3] Longest Substring Without Repeating Characters  
+[15] 3Sum  
+[1408] String Matching in an Array  
 
 
 🔁 Recursion / Backtracking
 Easy
-[70] Climbing Stairs.
-[206] Reverse Linked List (via recursion).
+[70] Climbing Stairs  
+[206] Reverse Linked List (via recursion)  
 
 Medium
-[22] Generate Parentheses.
-[46] Permutations.
-[78] Subsets.
+[22] Generate Parentheses  
+[46] Permutations  
+[78] Subsets  
 
 
 🛠️ System Design (LeetCode-Style)
 These aren’t classic DSA problems but involve modeling and system architecture thinking.
-[535] Encode and Decode TinyURL.
-[1396] Design Underground System.
+[535] Encode and Decode TinyURL  
+[1396] Design Underground System  
 
 
 📐 Geometry / Math
 Easy
-[9] Palindrome Number.
-[12] Integer to Roman.
-[13] Roman to Integer.
+[9] Palindrome Number  
+[12] Integer to Roman  
+[13] Roman to Integer  
 
 Medium
-[241] Different Ways to Add Parentheses (math + recursion + DP).
-[~1232] Circle Overlap / Max Area Triangle (search by tags).
+[241] Different Ways to Add Parentheses (math + recursion + DP)  
+[~1232] Circle Overlap / Max Area Triangle (search by tags)  
 
