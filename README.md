@@ -98,7 +98,7 @@ Organized by topic and difficulty. Focused on questions frequently asked in inte
 🌳 Graph / Trees  
 Easy  
 [94] Binary Tree Inorder Traversal--> Done  
-[144] Binary Tree Preorder Traversal  
+[144] Binary Tree Preorder Traversal--> Done  
 [145] Binary Tree Postorder Traversal  
 [261] Graph Valid Tree (medium to easy)  
 
