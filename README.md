@@ -100,7 +100,7 @@ Easy
 [94] Binary Tree Inorder Traversal--> Done  
 [144] Binary Tree Preorder Traversal--> Done  
 [145] Binary Tree Postorder Traversal--> Done  
-[261] Graph Valid Tree (medium to easy)  
+[261] Graph Valid Tree (medium to easy)--> Done  
 
 Medium  
 [127] Word Ladder.  
