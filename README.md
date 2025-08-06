@@ -103,7 +103,7 @@ Easy
 [261] Graph Valid Tree (medium to easy)  
 
 Medium  
-[127] Word Ladder.
+[127] Word Ladder.  
 [236] Lowest Common Ancestor of Binary Tree  
 [323] Number of Connected Components in Graph  
 [1650 / 1696] Cycle Detection / Advanced LCA Variants  
@@ -124,8 +124,8 @@ Medium
 
 🔤 Arrays & String Processing  
 Easy  
-[1] Two Sum  --> Done
-[53] Maximum Subarray  --> Done
+[1] Two Sum  --> Done  
+[53] Maximum Subarray  --> Done  
 [49] Group Anagrams  
 
 Medium  
@@ -145,7 +145,7 @@ Medium
 [78] Subsets  
 
 
-🛠️ System Design (LeetCode-Style)  
+🛠️ System Design (LeetCode-Style)   
 These aren’t classic DSA problems but involve modeling and system architecture thinking.  
 [535] Encode and Decode TinyURL  
 [1396] Design Underground System  
