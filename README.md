@@ -111,7 +111,7 @@ Medium
 
 📊 Dynamic Programming  
 Easy  
-[70] Climbing Stairs (also under recursion)  --> Done
+[70] Climbing Stairs (also under recursion)  --> Done  
 [338] Counting Bits  
 [121] Best Time to Buy and Sell Stock I  
 
