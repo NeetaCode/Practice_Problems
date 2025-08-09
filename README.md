@@ -113,7 +113,7 @@ Medium
 Easy  
 [70] Climbing Stairs (also under recursion)  --> Done  
 [338] Counting Bits  --> Done  
-[121] Best Time to Buy and Sell Stock I  
+[121] Best Time to Buy and Sell Stock I  --> Done  
 
 Medium  
 [139] Word Break  
