@@ -126,7 +126,7 @@ Medium
 Easy  
 [1] Two Sum  --> Done  
 [53] Maximum Subarray  --> Done  
-[49] Group Anagrams  --> Working on it  
+[49] Group Anagrams  --> Done 
 
 Medium  
 [3] Longest Substring Without Repeating Characters  
@@ -136,7 +136,7 @@ Medium
 
 🔁 Recursion / Backtracking  
 Easy  
-[70] Climbing Stairs  
+[70] Climbing Stairs   → Done  
 [206] Reverse Linked List (via recursion)  
 
 Medium  
