@@ -137,7 +137,7 @@ Medium
 🔁 Recursion / Backtracking  
 Easy  
 [70] Climbing Stairs   → Done  
-[206] Reverse Linked List (via recursion)  --> Working on it  
+[206] Reverse Linked List (via recursion)  --> Done 
 
 Medium  
 [22] Generate Parentheses  
