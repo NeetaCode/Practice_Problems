@@ -116,7 +116,7 @@ Easy
 [121] Best Time to Buy and Sell Stock I  --> Done  
 
 Medium  
-[139] Word Break  
+[139] Word Break  --> Done  
 [309] Best Time to Buy and Sell Stock with Cooldown  
 [329] Longest Increasing Path in a Matrix  
 [63] Unique Paths II  
