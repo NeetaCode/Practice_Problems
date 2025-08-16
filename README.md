@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
 **Arrays & Hash Maps**
 - Two Sum (LC#1) → Done
-- Contains Duplicate (LC#217) → Done
-- Valid Anagram (LC#242) --> Done
-- Product of Array Except Self (LC#238)
-- Top K Frequent Elements (LC#347)
-- Group Anagrams (LC#49)
+- Contains Duplicate (LC#217) → Done  
+- Valid Anagram (LC#242) → Done  
+- Product of Array Except Self (LC#238)  
+- Top K Frequent Elements (LC#347)  
+- Group Anagrams (LC#49) → Done  
 - Longest Consecutive Sequence (LC#128)
 - Encode and Decode Strings (LC#659)
 - Maximum Number of Ways to Partition an Array
