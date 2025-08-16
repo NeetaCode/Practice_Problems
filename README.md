@@ -34,7 +34,7 @@ ________________________________________________________________________________
 **Recursion**
 - Climbing Stairs (LC#70) → Done
 - Generate Parentheses (LC#22) → Done
-- Permutations (LC#46)
+- Permutations (LC#46) → Done
 - Letter Combinations of a Phone Number (LC#17)
 - Combination Sum (LC#39)
 
