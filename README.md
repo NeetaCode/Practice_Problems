@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 **Top 8 DP Problems**
 - Climbing Stairs (LC#70) → Done
-- House Robber (LC#198)
+- House Robber (LC#198) --> Done  
 - Longest Common Subsequence (LC#1143)
 - Partition Equal Subset Sum (LC#416)
 - Target Sum (LC#494)
