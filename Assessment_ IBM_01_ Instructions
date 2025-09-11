@@ -1,0 +1,88 @@
+Problem Statement
+You are given access to an events database API that lists events happening in different countries.
+The API endpoint is:
+https://jsonmock.hackerrank.com/api/events?country={country}&page={page}
+•	country is the name of the country.
+•	page is the page number of results (starting from 1).
+
+The API returns a JSON response with the following fields:
+•	page: current page number.
+•	per_page: max results per page.
+•	total: total number of results.
+•	total_pages: number of pages in the query.
+•	data: list of event objects.
+
+Each event object contains:
+•	name: the event name.
+•	country: the country where it occurs.
+•	date: the date of the event in ISO string format (e.g., "2024-05-11T13:20:42.1182").
+•	(Other fields are not relevant here.)
+
+Task
+Write a function:
+def futureEvents(country: str, plannedDate: int) -> [str]:
+
+where:
+country: the country where the event takes place.
+plannedDate: a timestamp in Unix epoch milliseconds.
+
+The function must:
+•	Retrieve all events for the given country from the API.
+•	Filter only the events that occur strictly after plannedDate.
+•	Among these events:
+o	Return the earliest event name (minimum date).
+o	Return the latest event name (maximum date).
+o	If no events are found, return ["", ""].
+
+Input Format
+•	The first line contains a string country.
+•	The second line contains an integer plannedDate (Unix epoch milliseconds).
+
+Output Format
+•	Print the two event names, each on a new line.
+•	If an event does not exist, print an empty string in its place.
+
+Constraints
+•	The API is only available inside Hackerrank’s environment.
+•	Do not modify the given main method.
+
+You must only implement the function futureEvents.
+Provided Main Method
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    country = input()
+    plannedDate = int(input().strip())
+
+    result = futureEvents(country, plannedDate)
+
+    fptr.write('\n'.join(result))
+    fptr.write('\n')
+
+    fptr.close()
+
+Sample Input 0
+Argentina
+1710527400000
+
+Sample Output 0
+GnBGUxZUBE
+PuaJfLINP
+
+Explanation:
+•	Planned date = 2024-03-15T18:30:00.000Z.
+•	The next future event after this date is GnBGUxZUBE (2024-04-05).
+•	The latest event is PuaJfLINP (2025-01-14).
+
+Sample Input 1
+Japan
+1713205000000
+
+Sample Output 1
+WYYRgC
+WEqBegXpCP
+
+Explanation:
+•	Planned date = 2024-04-15T18:30:00.000Z.
+•	The earliest future event is WYYRgC (2024-05-08).
+•	The latest future event is WEqBegXpCP (2025-01-10).
