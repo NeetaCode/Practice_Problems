@@ -1,0 +1,124 @@
+🚀 Problem: High Load Timestamps
+
+You are given the server loads recorded at different timestamps. Your task is to find all the indices (0-based) of timestamps where the server load is greater than twice the average server load.
+Function Description
+Complete the function:
+def getHighLoadTimestamps(load):
+    # Write your code here
+
+Input
+•	load (list of integers): server loads at timestamps.
+•	1 ≤ len(load) ≤ 2 * 10^5
+•	1 ≤ load[i] ≤ 10^9
+
+Output
+•	Returns a list of integers, representing the indices (0-based) where the load is greater than twice the average load.
+•	If no such index exists, return an empty list.
+
+Explanation of Steps
+1.	Compute the average load:
+Average =sum(load)/len(load)
+	
+
+
+Compute the threshold:
+
+threshold
+=
+2
+×
+average
+threshold=2×average
+
+Traverse through the array and collect indices i where:
+
+𝑙
+𝑜
+𝑎
+𝑑
+[
+𝑖
+]
+>
+threshold
+load[i]>threshold
+
+Return the collected indices in increasing order.
+
+Input Format (for custom testing)
+
+The first line contains an integer n, the size of the array load.
+
+Each of the next n lines contains an integer, representing load[i].
+
+Output Format
+
+Print the resulting list of indices.
+
+If none, print [].
+
+Example 1
+Input
+3
+1
+2
+9
+
+Explanation
+
+Average = (1 + 2 + 9) / 3 = 4
+
+Threshold = 2 × 4 = 8
+
+Only load[2] = 9 > 8
+
+Answer = [2]
+
+Output
+[2]
+
+Example 2
+Input
+5
+1
+1
+7
+7
+1
+
+Explanation
+
+Average = (1 + 1 + 7 + 7 + 1) / 5 = 3.4
+
+Threshold = 2 × 3.4 = 6.8
+
+Values greater than 6.8 are at indices 2 and 3
+
+Answer = [2, 3]
+
+Output
+[2, 3]
+
+Example 3
+Input
+4
+3
+3
+3
+3
+
+Explanation
+
+Average = (3 + 3 + 3 + 3) / 4 = 3
+
+Threshold = 2 × 3 = 6
+
+No element greater than 6
+
+Answer = []
+
+Output
+[]
+
+
+✅ Runs in O(n) time, efficient for n ≤ 2*10^5.
