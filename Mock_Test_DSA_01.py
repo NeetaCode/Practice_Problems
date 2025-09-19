@@ -74,3 +74,28 @@ print(meeting_planner(
 
 
 [output] array.integer
+
+
+# Performance Feedback
+
+# Current Performance: 2/10
+
+# Target: 5/10 (with optimization and practice)
+
+# Notes:
+
+# Easy-level problems solvable without debugging
+
+# Focus areas:
+
+# Arrays & Strings
+
+# Sorting & Searching
+
+# Binary Search, BST, Binary Tree
+
+# Graphs & Heaps
+
+# Greedy Algorithms
+
+# Dynamic Programming
