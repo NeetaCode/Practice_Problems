@@ -1,0 +1,18 @@
+class Solution(object):
+    def longestNiceSubstring(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        def dfs(string):
+            hashset = set(string)
+            if(len(string)<2):
+                return ""
+            for i in range(len(string)):
+                if not (string[i].lower() in hashset and string[i].upper() in hashset):
+                    string1=dfs(string[:i])
+                    string2=dfs(string[i+1:])
+                    return string2 if len(string2) > len(string1) else string1
+            return string
+
+        return dfs(s)
